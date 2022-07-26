@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>hoal dfsfds
+        <p>hoal dfsfds soy ivan 8 A 
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>holaa soy de 8 a</h1>
       </header>
     </div>
   );
